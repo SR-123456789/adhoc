@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://example.com/path/to/your_app.ipa</string> <!-- IPAファイルがホスティングされているURL -->
+                    <string>https://soshi1234.github.io/build-1723995289847.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
